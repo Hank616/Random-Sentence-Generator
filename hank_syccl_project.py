@@ -11,7 +11,7 @@ from random import shuffle
 input_keywords = ""
 keywords = ""
 
-input_keywords = input("Please enter your keyword: ")
+input_keywords = input("Please enter your verb keyword: ")
 keywords = input_keywords.split()
 print(keywords)
 
