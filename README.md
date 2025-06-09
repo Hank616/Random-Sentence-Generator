@@ -1,6 +1,6 @@
 # Random-Sentence-Generator
 
-# 🧠 Random Sentence Generator in python· 随机句子生成器
+# 🧠 Random Sentence Generator in python 随机句子生成器
 
 A Python project that takes a **verb** and a **subject word** from the user, and generates a grammatically structured English sentence using simple grammar rules and random elements.  
 一个 Python 项目，用户输入一个**动词**和一个**主语**，程序会根据语法规则随机生成一个英文句子。
@@ -33,6 +33,6 @@ input: eat, Hank
 output: Hank eat  an apple in the yard
 
 ## 🙏 Acknowledgements 特别鸣谢 
-Thanks for the Department of Linguistics and the Institute for Advanced Computational Science (IACS) at Stony Brook University
+Thanks for the Department of Linguistics and the Institute for Advanced Computational Science (IACS) at Stony Brook University  
 Thanks for my mentor Logan
 
