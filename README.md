@@ -35,6 +35,6 @@ output: Hank eat  an apple in the yard
 ## 🙏 Acknowledgements 特别鸣谢 
 Thanks for the Department of Linguistics and the Institute for Advanced Computational Science (IACS) at Stony Brook University  
 Thanks for my mentor Logan  
-感谢石溪大学语言学系和高级计算科学研究所 （IACS） 
+感谢石溪大学语言学系和高级计算科学研究所 （IACS）  
 感谢我的导师 Logan
 
