@@ -32,3 +32,7 @@ input: eat, Hank
 
 output: Hank eat  an apple in the yard
 
+## 🙏 Acknowledgements 特别鸣谢 
+Thanks for the Department of Linguistics and the Institute for Advanced Computational Science (IACS) at Stony Brook University
+Thanks for my mentor Logan
+
